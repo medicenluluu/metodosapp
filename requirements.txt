@@ -2,3 +2,4 @@ sympy
 plotly
 scipy
 pandas
+numpy
